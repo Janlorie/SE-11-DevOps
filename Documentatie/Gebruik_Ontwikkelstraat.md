@@ -22,3 +22,11 @@ Uitleg principes, instellingen, gebruik ontwikkelstraat, gekozen methodes.
 ## Discord
 
 
+## Gebruikers 
+
+
+## Testen Software
+
+
+## Rollen Ontwikkelstraat
+
