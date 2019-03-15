@@ -35,6 +35,17 @@
 ### Uitleg tool
 
 ### Andere opties 
+#### Hoofdstromingen
+Waterval 
+Iteratief
+Spiraal
+
+Agile
+Lean
+Waterval
+Kanban
+
+
 
 ### Onderbouwing Keuze
 
