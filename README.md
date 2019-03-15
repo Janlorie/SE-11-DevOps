@@ -40,11 +40,15 @@ de eerste les het concept DevOps toegelicht en in de tweede les, de verschillend
 
 ### Platform Azure
 Introductie, kwaliteiten.
+Azure, een platform van Microsoft voor het aanbieden van cloud services. 
+In alle verschillende vormen beschikbaar maar voor dit onderwijs blok gaan wij in op de toepassingen gericht op CI en CD. 
+Azure is de tweede grootste cloud service dienst in de wereld. Met het motto: "Every language, every platform." zijn 
+zij gericht op vrijheid en tegelijkertijd goede ondersteuning voor de mogelijkheden. 
 
 
 ## Doelstelling
-Inrichten en documenteren van een semi geautimatiseerde ontwikkelstraat. Begeleiding softwareontwikkeling 1e jaars studenten.
-
+De doelstelling voor dit project is het inrichten en documenteren van een semi geautimatiseerde ontwikkelstraat. 
+Daarbij is het leiden van een goed ontwikkelproces voor de 1e jaarsstudenten een tweede doelstelling.
 
 ## Links 
 1  [Gebruik Ontwikkelstraat](https://github.com/Janlorie/SE-11-DevOps/tree/master/Documentatie/Gebruik_Ontwikkelstraat.md)
