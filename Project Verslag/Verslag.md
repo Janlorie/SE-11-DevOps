@@ -8,6 +8,13 @@ De retrospectives bestaan uit de onderdelen:
 * Wat kon beter
 * Taken volgende sprint
 
+## Stakeholders project
+SE-3 Studenten
+Docenten
+SE-11 Studenten
+Product owners
+
+
 ## Sprint 1 (Week 1 en 2)
 * Introductie blok
 * Onduidelijkheid opdracht
@@ -127,3 +134,6 @@ Volgende sprint
 
 ### Taken voor volgende sprint 
 
+
+##Statistieken
+Alle mogelijke statistieken vergaren

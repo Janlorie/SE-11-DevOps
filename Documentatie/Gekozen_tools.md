@@ -1,4 +1,6 @@
 # Gekozen Tools 
+Provide a rationale for the selection of tools. A tool selection can be a constraint, 
+where you don't have any other choice or it can be selected based on the requirements at hand.
 
 ## Azure 
 ### Uitleg tool

@@ -37,5 +37,6 @@ Om ervoor te zorgen dat jullie goed met ons kunnen communiceren hebben we aantal
 ## Testen Software
 
 
-## Rollen Ontwikkelstraat
+## Definition of Done
+
 
