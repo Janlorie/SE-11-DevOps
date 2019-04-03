@@ -1,3 +1,34 @@
+# Stakeholders project
+In het kort is een stakeholder in dit project iemand die invloed en of belang heeft bij het project. 
+
+De stakeholders binnen dit project zijn: 
+* SE-3 Studenten
+* Docenten
+* SE-11 Studenten
+* Product owners
+
+#### SE-3 Studenten
+De SE-3 studenten zijn junior developers. Zij hebben weinig tot geen ervaring met programmeren en version control. Een 
+ontwikkelstraat is dus een redelijk lastig concept om te begrijpen voor de studenten. Deze studenten zijn de primaire 
+gebruikers van de ontwikkelstraat.
+
+Hun relatie met ons project is te beschrijven als gebruiker. Hun input en belangen zijn dan ook belangrijk voor ons project.
+Eventuele extra inspanningen om begrip te creëren zijn onderdeel van het project.
+
+#### Docenten
+De docenten zijn de technische ondersteuning van de SE-3 en SE-11 studenten. Het opzetten van de ontwikkelstraat en 
+het ontwikkelen van de hotel applicatie in de ontwikkelstraat, zijn primaire belangen voor deze groep stakeholders.
+
+#### SE-11 Studenten
+Wij handelen vanuit het belang bij het opleveren van een bruikbare ontwikkelstraat voor de SE-3 studenten. De realisatie 
+van de applicatie is niet van primair belang, de kwaliteit van de applicatie en een vloeibaar ontwikkelproces wel.
+
+#### Product Owner
+De product owners in deze context zijn die van de hotel applicatie. De docenten die deze rol aannemen, geven de 
+instructies en requirements op voor de applicatie. Ook de planning voor de SE-3 studenten wordt gestuurd door de product
+owner. De product owner heeft indirect belang bij ons project. Door een belang bij de ontwikkeling van de kwaliteit die
+gegarandeerd moet worden door de ontwikkelstraat.
+
 # Verslag Groep E
 De verslaglegging van dit project zal gebeuren aan de hand van de retrospectieven van de SCRUM sprints. Deze 
 sprints hebben een lengte van 2 weken. De retrospectieven zijn terugblikken van de sprint, niet op basis van 
@@ -7,13 +38,6 @@ De retrospectives bestaan uit de onderdelen:
 * Wat ging goed 
 * Wat kon beter
 * Taken volgende sprint
-
-## Stakeholders project
-SE-3 Studenten
-Docenten
-SE-11 Studenten
-Product owners
-
 
 ## Sprint 1 (Week 1 en 2)
 * Introductie blok
@@ -124,12 +148,21 @@ Het opzetten van een snellere manier van communicatie voor gevallen zoals als la
 beste keuze hiervoor. 
 
 ___
-Volgende sprint
 ## Sprint 4 (Week 7 en 8)
 ### Globaal
+In verband met de verplaatsing van de sprint bij de SE-3 groepen, ontstond er het probleem dat zij hun werk items 
+kwijt zijn geraakt. Dit hebben wij opgelost door een sprint weg te halen en de oudere sprint te verlengen. Daarbij 
+is er gedurende deze sprint een vijfde lid bij een van onze groepen gekomen. Door de beperking in Azure, hebben 
+wij onze rechten hier af moeten staan zodat de nieuwe developer werkelijk toegang kreeg tot het project. Ook hebben 
+wij gedurende deze week Whatsapp groepen aangemaakt om op urgente momenten snellere communicatie te hebben. Ook hebben 
+de groepen in deze sprint een assessment gehad. Voor en na het assessment hebben wij contact gehad, om door code te 
+lopen en eventuele tips te geven.
 
 ### Wat ging goed
+De communicatie van de groep naar ons. Bij het aanschuiven van hetr vijfde lid zijn wij hier meteen van op 
+de hoogte gebracht.
 
 ### Wat kon beter
+De communicatie van de docenten naar ons wat betreft de verlenging van de sprint. Als wij dit namelijk eerder wisten, 
+hadden wij de sprint vooral kunnen verlengen.
 
-### Taken voor volgende sprint 
