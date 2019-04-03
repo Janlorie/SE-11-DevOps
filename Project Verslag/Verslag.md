@@ -133,7 +133,3 @@ Volgende sprint
 ### Wat kon beter
 
 ### Taken voor volgende sprint 
-
-
-##Statistieken
-Alle mogelijke statistieken vergaren
