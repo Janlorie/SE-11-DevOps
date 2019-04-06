@@ -40,4 +40,13 @@ Zoals al eerder uitgelegd bij **Communicatie met SE-11** kan discord gebruikt wo
 
 ## Definition of Done
 
+1. De eisen van de taak zijn volbracht
+2. Er zijn voldoende comments geplaatst om de code onderhoudbaar te houden
+3. Het ontwerp is up-to-date gebracht mocht dit nodig zijn
+4. Er zijn unit tests geschreven die minimaal 80% coverage hebben
+5. Er is een pull request(PR) aangemaakt om te mergen met de master branch
+6. De PR is doormiddel van code review beoordeeld. Alle comments zijn beantwoord en mogelijke wijzigingen doorgevoerd
+7. De PR wordt succesvol gebuild 
+8. De taak wordt als voltooid aangevinkt op het board
+
 
