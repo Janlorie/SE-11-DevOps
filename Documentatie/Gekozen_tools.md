@@ -1,5 +1,5 @@
 # Gekozen Tools
-De gekozen tools worden hier toegelicht. Voor iedere tool leggen wij de functionaliteit uit, geven wij enkele andere 
+De gekozen tools worden hier toegelicht. Voor iedere tool geven wij enkele andere 
 opties en onderbouwen wij de keuze voor de tool. 
 
 ## Azure 
