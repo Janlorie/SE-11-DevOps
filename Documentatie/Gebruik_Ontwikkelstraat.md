@@ -34,10 +34,6 @@ Dit werkt als volgt:
 ## Discord
 Zoals al eerder uitgelegd bij **Communicatie met SE-11** kan discord gebruikt worden om te communiceren. Een van de channels binnen de server staan allemaal build messages. Hier zal een bot een bericht met de meest essientiele build informatie plaasten, mocht er ooit door iemand of automatische een build worden uitgevoerd.
 
-
-## Testen Software
-
-
 ## Definition of Done
 
 1. De eisen van de taak zijn volbracht
