@@ -56,7 +56,7 @@ Daarbij is het leiden van een goed ontwikkelproces voor de eerstejaarsstudenten 
 -  [Kosten en Baten Analyse](https://github.com/Janlorie/SE-11-DevOps/tree/master/Documentatie/Kosten_Baten.md)
 -  [Verslag](https://github.com/Janlorie/SE-11-DevOps/tree/master/Project%20Verslag/Verslag.md)
 -  [Statistieken](https://github.com/Janlorie/SE-11-DevOps/tree/master/Project%20Verslag/Statistieken.md)
--  [Structuur](https://github.com/Janlorie/SE-11-DevOps/tree/master/Documentatie/Structuur)
+-  [Structuur](https://github.com/Janlorie/SE-11-DevOps/tree/master/Documentatie/Structuur.md)
 
 
 
