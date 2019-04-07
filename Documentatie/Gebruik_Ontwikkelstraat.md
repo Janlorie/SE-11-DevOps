@@ -14,7 +14,7 @@ Om ervoor te zorgen dat jullie goed met ons kunnen communiceren hebben we een aa
   
 
 ## Branch Policies
-Er zijn bij de master branche enkele branch policies ingevoerd om deze te beschermen, code quality te waarborgen en reviews voordat er een commit naar master kan worden uitgevoerd worden. Sommige van deze policies worden ook echt enforced, maar van sommige policies wordt verwacht dat je ze naleeft.
+Er zijn bij de master branche enkele branch policies ingevoerd om deze te beschermen, code quality te waarborgen en reviews. Voordat er een commit naar master kan worden uitgevoerd worden. Sommige van deze policies worden ook echt enforced, maar van sommige policies wordt verwacht dat je ze naleeft alleen.
 
 Momenteel zijn er de volgende branch policies op de master branch:
   - **Pull requests(PR)**: het is niet mogelijk om direct naar de master branch te pushen, dit gaat altijd via een pull request. Een pull request kan worden aangemaakt in het overzicht van de branches.
@@ -41,7 +41,7 @@ Zoals al eerder uitgelegd bij **Communicatie met SE-11** kan discord gebruikt wo
 3. Het ontwerp is up-to-date gebracht mocht dit nodig zijn
 4. Er zijn unit tests geschreven die minimaal 80% coverage hebben
 5. Er is een pull request(PR) aangemaakt om te mergen met de master branch
-6. De PR is doormiddel van code review beoordeeld. Alle comments zijn beantwoord en mogelijke wijzigingen doorgevoerd
+6. De PR is doormiddel van code review beoordeeld. Alle comments zijn beantwoord en mogelijke wijzigingen zijn doorgevoerd
 7. De PR wordt succesvol gebuild 
 8. De taak wordt als voltooid aangevinkt op het board
 
