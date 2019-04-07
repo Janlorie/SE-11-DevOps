@@ -1,23 +1,23 @@
 # SE-11-DevOps
 Deze Github Repository is geschreven ter documentatie van de ontwikkeling van een DevOps project 
 van de onderwijs eenheid 'SE-11'. SE-11 is onderdeel van de studie HBO-ICT bij de Haagse Hogeschool. De 
-ontwikkelstraat wordt opgezet voor 1e jaarsstudenten, tot het project behoort niet alleen de opzet van de 
+ontwikkelstraat wordt opgezet voor eerstejaarsstudenten, tot het project behoort niet alleen de opzet van de 
 ontwikkelstraat maar ook de begeleiding van het gebruik van dit systeem. Onder de begeleiding wordt code review, 
-documentatie voor het gebruik van het systeem en bijwonen van de sprint plannings van de 1e jaarsstudenten.
+documentatie voor het gebruik van het systeem en bijwonen van de sprint planning van de eerstejaarsstudenten.
 
 ## Wat is 'DevOps'
 DevOps, een principe wat het beste uit te leggen is door te beginnen bij het probleem. Het probleem waar dit principe 
-namelijk om draait is, de muur tussen de development afdeling en de operations afdeling binnen een bedrijf. 
+namelijk om draait, de muur tussen de development afdeling en de operations afdeling binnen een bedrijf. 
 Waar de developers namelijk nieuwe functionaliteiten willen schrijven, willen operations officers namelijk een 
-stabiele build. Twee wensen die buiten een DevOps georienteerde omgeving, elkaar tegen werken. 
+stabiele build. Twee wensen die buiten een DevOps georiënteerde omgeving, elkaar tegen werken. 
 
 DevOps, is dus een samenvoeging van Development en Operations. Een werkwijze die de twee processen een maakt. 
 In praktische zin betekent dit continuous intergration(CI) en continuous deployment(CD). Dit betekent dat de code 
-constant gebuild en gedeployed wordt, mits deze aan de eisen voldoet.
+constant gebuild en gedeployed wordt, als deze aan de eisen voldoet.
 
 Automatiseren van het proces kenmerkt DevOps, de testen, het bouwen en het releasen van software moet zo min 
 mogelijk handmatig werk vereisen. Om zulke processen te automatiseren, is het opstellen van regels en eisen dan ook 
-een groot vereiste. De kwaliteit van de code moet gecontroleerd worden, de testen moeten autmatisch uitgevoerd 
+een groot vereiste. De kwaliteit van de code moet gecontroleerd worden, de testen moeten automatisch uitgevoerd 
 worden en eventuele extra vereisten aan de applicatie ook.
 
 
@@ -35,20 +35,20 @@ Het opzetten van de ontwikkelstraat, moet met behulp van Microsoft Azure opgezet
 ### Kennis voorhand
 Wij hadden geen kennis van DevOps voor dit project. Wel waren wij bekend met Git Version Control. Ook hebben wij 
 nog niet gewerkt met Microsoft Azure. De concepten Continuous Intergration en Continuous Deployment waren bekend maar
-de implementatie hiervan niet. Echter bleek in de lessen dat deze kennis voorhand ook niet werd verwacht. Zo werd in 
+de implementatie hiervan niet. Echter, bleek in de lessen dat deze kennis voorhand ook niet werd verwacht. Zo werd in 
 de eerste les het concept DevOps toegelicht en in de tweede les, de verschillende typen version control. 
 
 ### Platform Azure
 Introductie, kwaliteiten.
 Azure, een platform van Microsoft voor het aanbieden van cloud services. 
 In alle verschillende vormen beschikbaar maar voor dit onderwijs blok gaan wij in op de toepassingen gericht op CI en CD. 
-Azure is de tweede grootste cloud service dienst in de wereld. Met het motto: "Every language, every platform." zijn 
-zij gericht op vrijheid en tegelijkertijd goede ondersteuning voor de mogelijkheden. 
+Azure is de op een na grootste cloud service dienst in de wereld. Met het motto: "Every language, every platform." zijn 
+ze gericht op vrijheid en tegelijkertijd goede ondersteuning voor de mogelijkheden. 
 
 
 ## Doelstelling
-De doelstelling voor dit project is het inrichten en documenteren van een semi geautimatiseerde ontwikkelstraat. 
-Daarbij is het leiden van een goed ontwikkelproces voor de 1e jaarsstudenten een tweede doelstelling.
+De doelstelling voor dit project is het inrichten en documenteren van een semi geautomatiseerde ontwikkelstraat. 
+Daarbij is het leiden van een goed ontwikkelproces voor de eerstejaarsstudenten een tweede doelstelling.
 
 ## Links 
 -  [Gebruik Ontwikkelstraat](https://github.com/Janlorie/SE-11-DevOps/tree/master/Documentatie/Gebruik_Ontwikkelstraat.md)
